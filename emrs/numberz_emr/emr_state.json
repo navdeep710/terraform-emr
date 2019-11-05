@@ -1,0 +1,2786 @@
+[0m# module.emr_cluster.module.label_master.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "1750088703362075279"
+}
+
+# module.emr_cluster.module.label_master.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "5215174459777611772"
+}
+
+# module.emr_cluster.module.label_master.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "master"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "master"
+    }
+    [1m[0mrandom[0m[0m               = "1555869470912896150"
+}
+
+# module.emr_cluster.module.label_master.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-master"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-master"
+    }
+    [1m[0mrandom[0m[0m               = "1972598728892049219"
+}
+
+
+# module.emr_cluster.module.label_master_managed.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "7424775226661515121"
+}
+
+# module.emr_cluster.module.label_master_managed.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "1586324385543762966"
+}
+
+# module.emr_cluster.module.label_master_managed.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "master-managed"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "master-managed"
+    }
+    [1m[0mrandom[0m[0m               = "6166920358115152758"
+}
+
+# module.emr_cluster.module.label_master_managed.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-master-managed"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-master-managed"
+    }
+    [1m[0mrandom[0m[0m               = "2463718580971059973"
+}
+
+
+# module.subnets.module.public_label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "4300566969069534914"
+}
+
+# module.subnets.module.public_label.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "8833392891466499182"
+}
+
+# module.subnets.module.public_label.data.null_data_source.tags_as_list_of_maps[4]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "cpco.io/subnet/type"
+        "value" = "public"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "cpco.io/subnet/type"
+        "value" = "public"
+    }
+    [1m[0mrandom[0m[0m               = "1707881469380970647"
+}
+
+# module.subnets.module.public_label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "public"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "public"
+    }
+    [1m[0mrandom[0m[0m               = "9127289745808840768"
+}
+
+# module.subnets.module.public_label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0mrandom[0m[0m               = "4487123442681199838"
+}
+
+
+# module.emr_cluster.module.label_emr.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-emr"
+    }
+    [1m[0mrandom[0m[0m               = "6106622894095115834"
+}
+
+# module.emr_cluster.module.label_emr.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "5268250796128764794"
+}
+
+# module.emr_cluster.module.label_emr.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "969479675372727107"
+}
+
+# module.emr_cluster.module.label_emr.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "7219766953059185722"
+}
+
+
+# module.vpc.aws_internet_gateway.default:
+resource "aws_internet_gateway" "default" {
+    [1m[0mid[0m[0m       = "igw-08dc73dcc07aa9e13"
+    [1m[0mowner_id[0m[0m = "216727195602"
+    [1m[0mtags[0m[0m     = {
+        "Name"      = "emr-stage-dataorc-emr"
+        "Namespace" = "emr"
+        "Stage"     = "stage"
+    }
+    [1m[0mvpc_id[0m[0m   = "vpc-08f03cf7c659890bf"
+}
+
+# module.vpc.aws_vpc.default:
+resource "aws_vpc" "default" {
+    [1m[0marn[0m[0m                              = "arn:aws:ec2:us-east-1:216727195602:vpc/vpc-08f03cf7c659890bf"
+    [1m[0massign_generated_ipv6_cidr_block[0m[0m = true
+    [1m[0mcidr_block[0m[0m                       = "10.0.0.0/16"
+    [1m[0mdefault_network_acl_id[0m[0m           = "acl-034c91479b2520bf2"
+    [1m[0mdefault_route_table_id[0m[0m           = "rtb-0f27d3565f179cc82"
+    [1m[0mdefault_security_group_id[0m[0m        = "sg-03e5cad11369ab01f"
+    [1m[0mdhcp_options_id[0m[0m                  = "dopt-6195c71a"
+    [1m[0menable_classiclink[0m[0m               = false
+    [1m[0menable_classiclink_dns_support[0m[0m   = false
+    [1m[0menable_dns_hostnames[0m[0m             = true
+    [1m[0menable_dns_support[0m[0m               = true
+    [1m[0mid[0m[0m                               = "vpc-08f03cf7c659890bf"
+    [1m[0minstance_tenancy[0m[0m                 = "default"
+    [1m[0mipv6_association_id[0m[0m              = "vpc-cidr-assoc-03b2bee56408e93bd"
+    [1m[0mipv6_cidr_block[0m[0m                  = "2600:1f18:6454:e900::/56"
+    [1m[0mmain_route_table_id[0m[0m              = "rtb-0f27d3565f179cc82"
+    [1m[0mowner_id[0m[0m                         = "216727195602"
+    [1m[0mtags[0m[0m                             = {
+        "Name"      = "emr-stage-dataorc-emr"
+        "Namespace" = "emr"
+        "Stage"     = "stage"
+    }
+}
+
+
+
+# module.subnets.module.nat_label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "nat"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "nat"
+    }
+    [1m[0mrandom[0m[0m               = "6384921175543536626"
+}
+
+# module.subnets.module.nat_label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-nat"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-nat"
+    }
+    [1m[0mrandom[0m[0m               = "6092706429686866266"
+}
+
+# module.subnets.module.nat_label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "8585186149087479451"
+}
+
+# module.subnets.module.nat_label.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "4839077663857263505"
+}
+
+
+# module.emr_cluster.aws_emr_cluster.default[0]:
+resource "aws_emr_cluster" "default" {
+    [1m[0mapplications[0m[0m                      = [
+        "Hadoop",
+        "Hive",
+        "Spark",
+    ]
+    [1m[0mautoscaling_role[0m[0m                  = "arn:aws:iam::216727195602:role/emr-stage-dataorc-emr-ec2-autoscaling"
+    [1m[0mcluster_state[0m[0m                     = "WAITING"
+    [1m[0mconfigurations_json[0m[0m               = jsonencode(
+        [
+            {
+                Classification = "spark-hive-site"
+                Properties     = {
+                    hive.metastore.client.factory.class = "com.amazonaws.glue.catalog.metastore.AWSGlueDataCatalogHiveClientFactory"
+                }
+            },
+            {
+                Classification = "hive-site"
+                Properties     = {
+                    hive.metastore.client.factory.class = "com.amazonaws.glue.catalog.metastore.AWSGlueDataCatalogHiveClientFactory"
+                }
+            },
+        ]
+    )
+    [1m[0mcore_instance_count[0m[0m               = 1
+    [1m[0mcore_instance_type[0m[0m                = "m4.2xlarge"
+    [1m[0mebs_root_volume_size[0m[0m              = 20
+    [1m[0mid[0m[0m                                = "j-2VTPH10QTL0UL"
+    [1m[0mkeep_job_flow_alive_when_no_steps[0m[0m = true
+    [1m[0mlog_uri[0m[0m                           = "s3n://emr-stage-dataorc-emr-logs/"
+    [1m[0mmaster_instance_type[0m[0m              = "m4.xlarge"
+    [1m[0mmaster_public_dns[0m[0m                 = "ip-10-0-1-255.ec2.internal"
+    [1m[0mname[0m[0m                              = "emr-stage-dataorc-emr"
+    [1m[0mrelease_label[0m[0m                     = "emr-5.27.0"
+    [1m[0mscale_down_behavior[0m[0m               = "TERMINATE_AT_TASK_COMPLETION"
+    [1m[0mservice_role[0m[0m                      = "arn:aws:iam::216727195602:role/emr-stage-dataorc-emr-emr"
+    [1m[0mstep[0m[0m                              = []
+    [1m[0mtags[0m[0m                              = {
+        "Name"      = "emr-stage-dataorc-emr"
+        "Namespace" = "emr"
+        "Stage"     = "stage"
+    }
+    [1m[0mtermination_protection[0m[0m            = false
+    [1m[0mvisible_to_all_users[0m[0m              = true
+
+    core_instance_group {
+        [1m[0mautoscaling_policy[0m[0m = jsonencode(
+            {
+                Constraints = {
+                    MaxCapacity = 3
+                    MinCapacity = 1
+                }
+                Rules       = [
+                    {
+                        Action      = {
+                            SimpleScalingPolicyConfiguration = {
+                                AdjustmentType    = "CHANGE_IN_CAPACITY"
+                                CoolDown          = 100
+                                ScalingAdjustment = 1
+                            }
+                        }
+                        Description = "Scale out if YARNMemoryAvailablePercentage is less than 15"
+                        Name        = "ScaleOutMemoryPercentage"
+                        Trigger     = {
+                            CloudWatchAlarmDefinition = {
+                                ComparisonOperator = "LESS_THAN"
+                                EvaluationPeriods  = 1
+                                MetricName         = "YARNMemoryAvailablePercentage"
+                                Namespace          = "AWS/ElasticMapReduce"
+                                Period             = 300
+                                Statistic          = "AVERAGE"
+                                Threshold          = 15
+                                Unit               = "PERCENT"
+                            }
+                        }
+                    },
+                ]
+            }
+        )
+        [1m[0mbid_price[0m[0m          = "0.25"
+        [1m[0mid[0m[0m                 = "ig-4TJRIQZ1WHXT"
+        [1m[0minstance_count[0m[0m     = 1
+        [1m[0minstance_type[0m[0m      = "m4.2xlarge"
+        [1m[0mname[0m[0m               = "emr-stage-dataorc-emr-core"
+
+        ebs_config {
+            [1m[0msize[0m[0m                 = 30
+            [1m[0mtype[0m[0m                 = "gp2"
+            [1m[0mvolumes_per_instance[0m[0m = 1
+        }
+    }
+
+    ec2_attributes {
+        [1m[0madditional_master_security_groups[0m[0m = "sg-0fbcdd896f9cad95a"
+        [1m[0madditional_slave_security_groups[0m[0m  = "sg-0500348a9b239265d"
+        [1m[0memr_managed_master_security_group[0m[0m = "sg-0cfa2f8a6661c9b09"
+        [1m[0memr_managed_slave_security_group[0m[0m  = "sg-0138c957ab8a0c355"
+        [1m[0minstance_profile[0m[0m                  = "arn:aws:iam::216727195602:instance-profile/emr-stage-dataorc-emr-ec2"
+        [1m[0mkey_name[0m[0m                          = "emr-stage-dataorc-emr-ssh-key"
+        [1m[0mservice_access_security_group[0m[0m     = "sg-00a3d9a20d0c59292"
+        [1m[0msubnet_id[0m[0m                         = "subnet-04f1dfdc9bfdb83bb"
+    }
+
+    instance_group {
+        [1m[0mid[0m[0m             = "ig-23BTX87WKOH6L"
+        [1m[0minstance_count[0m[0m = 1
+        [1m[0minstance_role[0m[0m  = "MASTER"
+        [1m[0minstance_type[0m[0m  = "m4.xlarge"
+        [1m[0mname[0m[0m           = "emr-stage-dataorc-emr-master"
+
+        ebs_config {
+            [1m[0miops[0m[0m                 = 0
+            [1m[0msize[0m[0m                 = 20
+            [1m[0mtype[0m[0m                 = "gp2"
+            [1m[0mvolumes_per_instance[0m[0m = 1
+        }
+    }
+    instance_group {
+        [1m[0mautoscaling_policy[0m[0m = jsonencode(
+            {
+                Constraints = {
+                    MaxCapacity = 3
+                    MinCapacity = 1
+                }
+                Rules       = [
+                    {
+                        Action      = {
+                            SimpleScalingPolicyConfiguration = {
+                                AdjustmentType    = "CHANGE_IN_CAPACITY"
+                                CoolDown          = 100
+                                ScalingAdjustment = 1
+                            }
+                        }
+                        Description = "Scale out if YARNMemoryAvailablePercentage is less than 15"
+                        Name        = "ScaleOutMemoryPercentage"
+                        Trigger     = {
+                            CloudWatchAlarmDefinition = {
+                                ComparisonOperator = "LESS_THAN"
+                                EvaluationPeriods  = 1
+                                MetricName         = "YARNMemoryAvailablePercentage"
+                                Namespace          = "AWS/ElasticMapReduce"
+                                Period             = 300
+                                Statistic          = "AVERAGE"
+                                Threshold          = 15
+                                Unit               = "PERCENT"
+                            }
+                        }
+                    },
+                ]
+            }
+        )
+        [1m[0mbid_price[0m[0m          = "0.25"
+        [1m[0mid[0m[0m                 = "ig-4TJRIQZ1WHXT"
+        [1m[0minstance_count[0m[0m     = 1
+        [1m[0minstance_role[0m[0m      = "CORE"
+        [1m[0minstance_type[0m[0m      = "m4.2xlarge"
+        [1m[0mname[0m[0m               = "emr-stage-dataorc-emr-core"
+
+        ebs_config {
+            [1m[0miops[0m[0m                 = 0
+            [1m[0msize[0m[0m                 = 30
+            [1m[0mtype[0m[0m                 = "gp2"
+            [1m[0mvolumes_per_instance[0m[0m = 1
+        }
+    }
+
+    master_instance_group {
+        [1m[0mid[0m[0m             = "ig-23BTX87WKOH6L"
+        [1m[0minstance_count[0m[0m = 1
+        [1m[0minstance_type[0m[0m  = "m4.xlarge"
+        [1m[0mname[0m[0m           = "emr-stage-dataorc-emr-master"
+
+        ebs_config {
+            [1m[0msize[0m[0m                 = 20
+            [1m[0mtype[0m[0m                 = "gp2"
+            [1m[0mvolumes_per_instance[0m[0m = 1
+        }
+    }
+}
+
+# module.emr_cluster.aws_iam_instance_profile.ec2[0]:
+resource "aws_iam_instance_profile" "ec2" {
+    [1m[0marn[0m[0m         = "arn:aws:iam::216727195602:instance-profile/emr-stage-dataorc-emr-ec2"
+    [1m[0mcreate_date[0m[0m = "2019-11-03T07:02:20Z"
+    [1m[0mid[0m[0m          = "emr-stage-dataorc-emr-ec2"
+    [1m[0mname[0m[0m        = "emr-stage-dataorc-emr-ec2"
+    [1m[0mpath[0m[0m        = "/"
+    [1m[0mrole[0m[0m        = "emr-stage-dataorc-emr-ec2"
+    [1m[0mroles[0m[0m       = []
+    [1m[0munique_id[0m[0m   = "AIPATE5PSR7JLYWXTRDOV"
+}
+
+# module.emr_cluster.aws_iam_role.ec2[0]:
+resource "aws_iam_role" "ec2" {
+    [1m[0marn[0m[0m                   = "arn:aws:iam::216727195602:role/emr-stage-dataorc-emr-ec2"
+    [1m[0massume_role_policy[0m[0m    = jsonencode(
+        {
+            Statement = [
+                {
+                    Action    = "sts:AssumeRole"
+                    Effect    = "Allow"
+                    Principal = {
+                        Service = "ec2.amazonaws.com"
+                    }
+                    Sid       = ""
+                },
+            ]
+            Version   = "2012-10-17"
+        }
+    )
+    [1m[0mcreate_date[0m[0m           = "2019-11-03T07:02:17Z"
+    [1m[0mforce_detach_policies[0m[0m = false
+    [1m[0mid[0m[0m                    = "emr-stage-dataorc-emr-ec2"
+    [1m[0mmax_session_duration[0m[0m  = 3600
+    [1m[0mname[0m[0m                  = "emr-stage-dataorc-emr-ec2"
+    [1m[0mpath[0m[0m                  = "/"
+    [1m[0munique_id[0m[0m             = "AROATE5PSR7JBN4WXT5II"
+}
+
+# module.emr_cluster.aws_iam_role.ec2_autoscaling[0]:
+resource "aws_iam_role" "ec2_autoscaling" {
+    [1m[0marn[0m[0m                   = "arn:aws:iam::216727195602:role/emr-stage-dataorc-emr-ec2-autoscaling"
+    [1m[0massume_role_policy[0m[0m    = jsonencode(
+        {
+            Statement = [
+                {
+                    Action    = "sts:AssumeRole"
+                    Effect    = "Allow"
+                    Principal = {
+                        Service = "ec2.amazonaws.com"
+                    }
+                    Sid       = ""
+                },
+            ]
+            Version   = "2012-10-17"
+        }
+    )
+    [1m[0mcreate_date[0m[0m           = "2019-11-03T07:02:17Z"
+    [1m[0mforce_detach_policies[0m[0m = false
+    [1m[0mid[0m[0m                    = "emr-stage-dataorc-emr-ec2-autoscaling"
+    [1m[0mmax_session_duration[0m[0m  = 3600
+    [1m[0mname[0m[0m                  = "emr-stage-dataorc-emr-ec2-autoscaling"
+    [1m[0mpath[0m[0m                  = "/"
+    [1m[0munique_id[0m[0m             = "AROATE5PSR7JLKGEHRWWI"
+}
+
+# module.emr_cluster.aws_iam_role.emr[0]:
+resource "aws_iam_role" "emr" {
+    [1m[0marn[0m[0m                   = "arn:aws:iam::216727195602:role/emr-stage-dataorc-emr-emr"
+    [1m[0massume_role_policy[0m[0m    = jsonencode(
+        {
+            Statement = [
+                {
+                    Action    = "sts:AssumeRole"
+                    Effect    = "Allow"
+                    Principal = {
+                        Service = "elasticmapreduce.amazonaws.com"
+                    }
+                    Sid       = ""
+                },
+            ]
+            Version   = "2012-10-17"
+        }
+    )
+    [1m[0mcreate_date[0m[0m           = "2019-11-03T07:02:17Z"
+    [1m[0mforce_detach_policies[0m[0m = false
+    [1m[0mid[0m[0m                    = "emr-stage-dataorc-emr-emr"
+    [1m[0mmax_session_duration[0m[0m  = 3600
+    [1m[0mname[0m[0m                  = "emr-stage-dataorc-emr-emr"
+    [1m[0mpath[0m[0m                  = "/"
+    [1m[0munique_id[0m[0m             = "AROATE5PSR7JNELG2ASPV"
+}
+
+# module.emr_cluster.aws_iam_role_policy_attachment.ec2[0]:
+resource "aws_iam_role_policy_attachment" "ec2" {
+    [1m[0mid[0m[0m         = "emr-stage-dataorc-emr-ec2-20191103070220773900000001"
+    [1m[0mpolicy_arn[0m[0m = "arn:aws:iam::aws:policy/service-role/AmazonElasticMapReduceforEC2Role"
+    [1m[0mrole[0m[0m       = "emr-stage-dataorc-emr-ec2"
+}
+
+# module.emr_cluster.aws_iam_role_policy_attachment.ec2_autoscaling[0]:
+resource "aws_iam_role_policy_attachment" "ec2_autoscaling" {
+    [1m[0mid[0m[0m         = "emr-stage-dataorc-emr-ec2-autoscaling-20191103070220775400000002"
+    [1m[0mpolicy_arn[0m[0m = "arn:aws:iam::aws:policy/service-role/AmazonElasticMapReduceforAutoScalingRole"
+    [1m[0mrole[0m[0m       = "emr-stage-dataorc-emr-ec2-autoscaling"
+}
+
+# module.emr_cluster.aws_iam_role_policy_attachment.emr[0]:
+resource "aws_iam_role_policy_attachment" "emr" {
+    [1m[0mid[0m[0m         = "emr-stage-dataorc-emr-emr-20191103070220966100000003"
+    [1m[0mpolicy_arn[0m[0m = "arn:aws:iam::aws:policy/service-role/AmazonElasticMapReduceRole"
+    [1m[0mrole[0m[0m       = "emr-stage-dataorc-emr-emr"
+}
+
+# module.emr_cluster.aws_security_group.managed_master[0]:
+resource "aws_security_group" "managed_master" {
+    [1m[0marn[0m[0m                    = "arn:aws:ec2:us-east-1:216727195602:security-group/sg-0cfa2f8a6661c9b09"
+    [1m[0mdescription[0m[0m            = "EmrManagedMasterSecurityGroup"
+    [1m[0megress[0m[0m                 = []
+    [1m[0mid[0m[0m                     = "sg-0cfa2f8a6661c9b09"
+    [1m[0mingress[0m[0m                = []
+    [1m[0mname[0m[0m                   = "emr-stage-dataorc-emr-master-managed"
+    [1m[0mowner_id[0m[0m               = "216727195602"
+    [1m[0mrevoke_rules_on_delete[0m[0m = true
+    [1m[0mtags[0m[0m                   = {
+        "Attributes" = "master-managed"
+        "Name"       = "emr-stage-dataorc-emr-master-managed"
+        "Namespace"  = "emr"
+        "Stage"      = "stage"
+    }
+    [1m[0mvpc_id[0m[0m                 = "vpc-08f03cf7c659890bf"
+}
+
+# module.emr_cluster.aws_security_group.managed_service_access[0]:
+resource "aws_security_group" "managed_service_access" {
+    [1m[0marn[0m[0m                    = "arn:aws:ec2:us-east-1:216727195602:security-group/sg-00a3d9a20d0c59292"
+    [1m[0mdescription[0m[0m            = "EmrManagedServiceAccessSecurityGroup"
+    [1m[0megress[0m[0m                 = []
+    [1m[0mid[0m[0m                     = "sg-00a3d9a20d0c59292"
+    [1m[0mingress[0m[0m                = []
+    [1m[0mname[0m[0m                   = "emr-stage-dataorc-emr-service-managed"
+    [1m[0mowner_id[0m[0m               = "216727195602"
+    [1m[0mrevoke_rules_on_delete[0m[0m = true
+    [1m[0mtags[0m[0m                   = {
+        "Attributes" = "service-managed"
+        "Name"       = "emr-stage-dataorc-emr-service-managed"
+        "Namespace"  = "emr"
+        "Stage"      = "stage"
+    }
+    [1m[0mvpc_id[0m[0m                 = "vpc-08f03cf7c659890bf"
+}
+
+# module.emr_cluster.aws_security_group.managed_slave[0]:
+resource "aws_security_group" "managed_slave" {
+    [1m[0marn[0m[0m                    = "arn:aws:ec2:us-east-1:216727195602:security-group/sg-0138c957ab8a0c355"
+    [1m[0mdescription[0m[0m            = "EmrManagedSlaveSecurityGroup"
+    [1m[0megress[0m[0m                 = []
+    [1m[0mid[0m[0m                     = "sg-0138c957ab8a0c355"
+    [1m[0mingress[0m[0m                = []
+    [1m[0mname[0m[0m                   = "emr-stage-dataorc-emr-slave-managed"
+    [1m[0mowner_id[0m[0m               = "216727195602"
+    [1m[0mrevoke_rules_on_delete[0m[0m = true
+    [1m[0mtags[0m[0m                   = {
+        "Attributes" = "slave-managed"
+        "Name"       = "emr-stage-dataorc-emr-slave-managed"
+        "Namespace"  = "emr"
+        "Stage"      = "stage"
+    }
+    [1m[0mvpc_id[0m[0m                 = "vpc-08f03cf7c659890bf"
+}
+
+# module.emr_cluster.aws_security_group.master[0]:
+resource "aws_security_group" "master" {
+    [1m[0marn[0m[0m                    = "arn:aws:ec2:us-east-1:216727195602:security-group/sg-0fbcdd896f9cad95a"
+    [1m[0mdescription[0m[0m            = "Allow inbound traffic from Security Groups and CIDRs for masters. Allow all outbound traffic"
+    [1m[0megress[0m[0m                 = []
+    [1m[0mid[0m[0m                     = "sg-0fbcdd896f9cad95a"
+    [1m[0mingress[0m[0m                = []
+    [1m[0mname[0m[0m                   = "emr-stage-dataorc-emr-master"
+    [1m[0mowner_id[0m[0m               = "216727195602"
+    [1m[0mrevoke_rules_on_delete[0m[0m = true
+    [1m[0mtags[0m[0m                   = {
+        "Attributes" = "master"
+        "Name"       = "emr-stage-dataorc-emr-master"
+        "Namespace"  = "emr"
+        "Stage"      = "stage"
+    }
+    [1m[0mvpc_id[0m[0m                 = "vpc-08f03cf7c659890bf"
+}
+
+# module.emr_cluster.aws_security_group.slave[0]:
+resource "aws_security_group" "slave" {
+    [1m[0marn[0m[0m                    = "arn:aws:ec2:us-east-1:216727195602:security-group/sg-0500348a9b239265d"
+    [1m[0mdescription[0m[0m            = "Allow inbound traffic from Security Groups and CIDRs for slaves. Allow all outbound traffic"
+    [1m[0megress[0m[0m                 = []
+    [1m[0mid[0m[0m                     = "sg-0500348a9b239265d"
+    [1m[0mingress[0m[0m                = []
+    [1m[0mname[0m[0m                   = "emr-stage-dataorc-emr-slave"
+    [1m[0mowner_id[0m[0m               = "216727195602"
+    [1m[0mrevoke_rules_on_delete[0m[0m = true
+    [1m[0mtags[0m[0m                   = {
+        "Attributes" = "slave"
+        "Name"       = "emr-stage-dataorc-emr-slave"
+        "Namespace"  = "emr"
+        "Stage"      = "stage"
+    }
+    [1m[0mvpc_id[0m[0m                 = "vpc-08f03cf7c659890bf"
+}
+
+# module.emr_cluster.aws_security_group_rule.managed_master_egress[0]:
+resource "aws_security_group_rule" "managed_master_egress" {
+    [1m[0mcidr_blocks[0m[0m       = [
+        "0.0.0.0/0",
+    ]
+    [1m[0mdescription[0m[0m       = "Allow all egress traffic"
+    [1m[0mfrom_port[0m[0m         = 0
+    [1m[0mid[0m[0m                = "sgrule-2926506734"
+    [1m[0mipv6_cidr_blocks[0m[0m  = [
+        "::/0",
+    ]
+    [1m[0mprotocol[0m[0m          = "-1"
+    [1m[0msecurity_group_id[0m[0m = "sg-0cfa2f8a6661c9b09"
+    [1m[0mself[0m[0m              = false
+    [1m[0mto_port[0m[0m           = 0
+    [1m[0mtype[0m[0m              = "egress"
+}
+
+# module.emr_cluster.aws_security_group_rule.managed_service_access_egress[0]:
+resource "aws_security_group_rule" "managed_service_access_egress" {
+    [1m[0mcidr_blocks[0m[0m       = [
+        "0.0.0.0/0",
+    ]
+    [1m[0mdescription[0m[0m       = "Allow all egress traffic"
+    [1m[0mfrom_port[0m[0m         = 0
+    [1m[0mid[0m[0m                = "sgrule-1196619996"
+    [1m[0mipv6_cidr_blocks[0m[0m  = [
+        "::/0",
+    ]
+    [1m[0mprotocol[0m[0m          = "-1"
+    [1m[0msecurity_group_id[0m[0m = "sg-00a3d9a20d0c59292"
+    [1m[0mself[0m[0m              = false
+    [1m[0mto_port[0m[0m           = 0
+    [1m[0mtype[0m[0m              = "egress"
+}
+
+# module.emr_cluster.aws_security_group_rule.managed_slave_egress[0]:
+resource "aws_security_group_rule" "managed_slave_egress" {
+    [1m[0mcidr_blocks[0m[0m       = [
+        "0.0.0.0/0",
+    ]
+    [1m[0mdescription[0m[0m       = "Allow all egress traffic"
+    [1m[0mfrom_port[0m[0m         = 0
+    [1m[0mid[0m[0m                = "sgrule-3676735155"
+    [1m[0mipv6_cidr_blocks[0m[0m  = [
+        "::/0",
+    ]
+    [1m[0mprotocol[0m[0m          = "-1"
+    [1m[0msecurity_group_id[0m[0m = "sg-0138c957ab8a0c355"
+    [1m[0mself[0m[0m              = false
+    [1m[0mto_port[0m[0m           = 0
+    [1m[0mtype[0m[0m              = "egress"
+}
+
+# module.emr_cluster.aws_security_group_rule.master_egress[0]:
+resource "aws_security_group_rule" "master_egress" {
+    [1m[0mcidr_blocks[0m[0m       = [
+        "0.0.0.0/0",
+    ]
+    [1m[0mdescription[0m[0m       = "Allow all egress traffic"
+    [1m[0mfrom_port[0m[0m         = 0
+    [1m[0mid[0m[0m                = "sgrule-679531856"
+    [1m[0mprotocol[0m[0m          = "tcp"
+    [1m[0msecurity_group_id[0m[0m = "sg-0fbcdd896f9cad95a"
+    [1m[0mself[0m[0m              = false
+    [1m[0mto_port[0m[0m           = 65535
+    [1m[0mtype[0m[0m              = "egress"
+}
+
+# module.emr_cluster.aws_security_group_rule.master_ingress_security_groups[0]:
+resource "aws_security_group_rule" "master_ingress_security_groups" {
+    [1m[0mdescription[0m[0m              = "Allow inbound traffic from Security Groups"
+    [1m[0mfrom_port[0m[0m                = 0
+    [1m[0mid[0m[0m                       = "sgrule-1623799777"
+    [1m[0mprotocol[0m[0m                 = "tcp"
+    [1m[0msecurity_group_id[0m[0m        = "sg-0fbcdd896f9cad95a"
+    [1m[0mself[0m[0m                     = false
+    [1m[0msource_security_group_id[0m[0m = "sg-03e5cad11369ab01f"
+    [1m[0mto_port[0m[0m                  = 65535
+    [1m[0mtype[0m[0m                     = "ingress"
+}
+
+# module.emr_cluster.aws_security_group_rule.slave_egress[0]:
+resource "aws_security_group_rule" "slave_egress" {
+    [1m[0mcidr_blocks[0m[0m       = [
+        "0.0.0.0/0",
+    ]
+    [1m[0mdescription[0m[0m       = "Allow all egress traffic"
+    [1m[0mfrom_port[0m[0m         = 0
+    [1m[0mid[0m[0m                = "sgrule-2931404012"
+    [1m[0mprotocol[0m[0m          = "tcp"
+    [1m[0msecurity_group_id[0m[0m = "sg-0500348a9b239265d"
+    [1m[0mself[0m[0m              = false
+    [1m[0mto_port[0m[0m           = 65535
+    [1m[0mtype[0m[0m              = "egress"
+}
+
+# module.emr_cluster.aws_security_group_rule.slave_ingress_security_groups[0]:
+resource "aws_security_group_rule" "slave_ingress_security_groups" {
+    [1m[0mdescription[0m[0m              = "Allow inbound traffic from Security Groups"
+    [1m[0mfrom_port[0m[0m                = 0
+    [1m[0mid[0m[0m                       = "sgrule-1556083096"
+    [1m[0mprotocol[0m[0m                 = "tcp"
+    [1m[0msecurity_group_id[0m[0m        = "sg-0500348a9b239265d"
+    [1m[0mself[0m[0m                     = false
+    [1m[0msource_security_group_id[0m[0m = "sg-03e5cad11369ab01f"
+    [1m[0mto_port[0m[0m                  = 65535
+    [1m[0mtype[0m[0m                     = "ingress"
+}
+
+# module.emr_cluster.aws_vpc_endpoint.vpc_endpoint_s3[0]:
+resource "aws_vpc_endpoint" "vpc_endpoint_s3" {
+    [1m[0mauto_accept[0m[0m           = true
+    [1m[0mcidr_blocks[0m[0m           = [
+        "54.231.0.0/17",
+        "52.216.0.0/15",
+    ]
+    [1m[0mdns_entry[0m[0m             = []
+    [1m[0mid[0m[0m                    = "vpce-0102a67e20186399e"
+    [1m[0mnetwork_interface_ids[0m[0m = []
+    [1m[0mowner_id[0m[0m              = "216727195602"
+    [1m[0mpolicy[0m[0m                = jsonencode(
+        {
+            Statement = [
+                {
+                    Action    = "*"
+                    Effect    = "Allow"
+                    Principal = "*"
+                    Resource  = "*"
+                },
+            ]
+            Version   = "2008-10-17"
+        }
+    )
+    [1m[0mprefix_list_id[0m[0m        = "pl-63a5400a"
+    [1m[0mprivate_dns_enabled[0m[0m   = false
+    [1m[0mrequester_managed[0m[0m     = false
+    [1m[0mroute_table_ids[0m[0m       = [
+        "rtb-0425f4270a1615392",
+    ]
+    [1m[0msecurity_group_ids[0m[0m    = []
+    [1m[0mservice_name[0m[0m          = "com.amazonaws.us-east-1.s3"
+    [1m[0mstate[0m[0m                 = "available"
+    [1m[0msubnet_ids[0m[0m            = []
+    [1m[0mtags[0m[0m                  = {
+        "Name"      = "emr-stage-dataorc-emr"
+        "Namespace" = "emr"
+        "Stage"     = "stage"
+    }
+    [1m[0mvpc_endpoint_type[0m[0m     = "Gateway"
+    [1m[0mvpc_id[0m[0m                = "vpc-08f03cf7c659890bf"
+}
+
+# module.emr_cluster.data.aws_iam_policy_document.assume_role_ec2[0]:
+data "aws_iam_policy_document" "assume_role_ec2" {
+    [1m[0mid[0m[0m      = "1903849331"
+    [1m[0mjson[0m[0m    = jsonencode(
+        {
+            Statement = [
+                {
+                    Action    = "sts:AssumeRole"
+                    Effect    = "Allow"
+                    Principal = {
+                        Service = "ec2.amazonaws.com"
+                    }
+                    Sid       = ""
+                },
+            ]
+            Version   = "2012-10-17"
+        }
+    )
+    [1m[0mversion[0m[0m = "2012-10-17"
+
+    statement {
+        [1m[0mactions[0m[0m       = [
+            "sts:AssumeRole",
+        ]
+        [1m[0meffect[0m[0m        = "Allow"
+        [1m[0mnot_actions[0m[0m   = []
+        [1m[0mnot_resources[0m[0m = []
+        [1m[0mresources[0m[0m     = []
+
+        principals {
+            [1m[0midentifiers[0m[0m = [
+                "ec2.amazonaws.com",
+            ]
+            [1m[0mtype[0m[0m        = "Service"
+        }
+    }
+}
+
+# module.emr_cluster.data.aws_iam_policy_document.assume_role_emr[0]:
+data "aws_iam_policy_document" "assume_role_emr" {
+    [1m[0mid[0m[0m      = "3008486542"
+    [1m[0mjson[0m[0m    = jsonencode(
+        {
+            Statement = [
+                {
+                    Action    = "sts:AssumeRole"
+                    Effect    = "Allow"
+                    Principal = {
+                        Service = "elasticmapreduce.amazonaws.com"
+                    }
+                    Sid       = ""
+                },
+            ]
+            Version   = "2012-10-17"
+        }
+    )
+    [1m[0mversion[0m[0m = "2012-10-17"
+
+    statement {
+        [1m[0mactions[0m[0m       = [
+            "sts:AssumeRole",
+        ]
+        [1m[0meffect[0m[0m        = "Allow"
+        [1m[0mnot_actions[0m[0m   = []
+        [1m[0mnot_resources[0m[0m = []
+        [1m[0mresources[0m[0m     = []
+
+        principals {
+            [1m[0midentifiers[0m[0m = [
+                "elasticmapreduce.amazonaws.com",
+            ]
+            [1m[0mtype[0m[0m        = "Service"
+        }
+    }
+}
+
+
+# module.emr_cluster.module.label_ec2_autoscaling.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "6804148708015703922"
+}
+
+# module.emr_cluster.module.label_ec2_autoscaling.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "ec2-autoscaling"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "ec2-autoscaling"
+    }
+    [1m[0mrandom[0m[0m               = "1059690783038806362"
+}
+
+# module.emr_cluster.module.label_ec2_autoscaling.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-ec2-autoscaling"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-ec2-autoscaling"
+    }
+    [1m[0mrandom[0m[0m               = "3534634105363333282"
+}
+
+# module.emr_cluster.module.label_ec2_autoscaling.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "8759215368600520552"
+}
+
+
+# module.subnets.module.private_label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0mrandom[0m[0m               = "5342079425504680801"
+}
+
+# module.subnets.module.private_label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "2129875182114572153"
+}
+
+# module.subnets.module.private_label.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "6998467665395291683"
+}
+
+# module.subnets.module.private_label.data.null_data_source.tags_as_list_of_maps[4]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "cpco.io/subnet/type"
+        "value" = "private"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "cpco.io/subnet/type"
+        "value" = "private"
+    }
+    [1m[0mrandom[0m[0m               = "2543170207481617463"
+}
+
+# module.subnets.module.private_label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "private"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "private"
+    }
+    [1m[0mrandom[0m[0m               = "7932204878512430266"
+}
+
+
+# module.emr_cluster.module.label_service_managed.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "2587212436024017775"
+}
+
+# module.emr_cluster.module.label_service_managed.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "3666647471061264740"
+}
+
+# module.emr_cluster.module.label_service_managed.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "service-managed"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "service-managed"
+    }
+    [1m[0mrandom[0m[0m               = "6086336166922320634"
+}
+
+# module.emr_cluster.module.label_service_managed.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-service-managed"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-service-managed"
+    }
+    [1m[0mrandom[0m[0m               = "454860165726342161"
+}
+
+
+# module.emr_cluster.module.label_slave_managed.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "slave-managed"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "slave-managed"
+    }
+    [1m[0mrandom[0m[0m               = "95515574433008825"
+}
+
+# module.emr_cluster.module.label_slave_managed.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-slave-managed"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-slave-managed"
+    }
+    [1m[0mrandom[0m[0m               = "6541804562538067915"
+}
+
+# module.emr_cluster.module.label_slave_managed.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "5403182205404942785"
+}
+
+# module.emr_cluster.module.label_slave_managed.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "5439175831016158161"
+}
+
+
+# module.aws_key_pair.module.label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "ssh-key"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "ssh-key"
+    }
+    [1m[0mrandom[0m[0m               = "1739322466113237799"
+}
+
+# module.aws_key_pair.module.label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-ssh-key"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-ssh-key"
+    }
+    [1m[0mrandom[0m[0m               = "7435512544750032501"
+}
+
+# module.aws_key_pair.module.label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "2649051984490376701"
+}
+
+# module.aws_key_pair.module.label.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "1200098603954007856"
+}
+
+
+# module.s3_log_storage.aws_s3_bucket.default[0]:
+resource "aws_s3_bucket" "default" {
+    [1m[0macl[0m[0m                         = "log-delivery-write"
+    [1m[0marn[0m[0m                         = "arn:aws:s3:::emr-stage-dataorc-emr-logs"
+    [1m[0mbucket[0m[0m                      = "emr-stage-dataorc-emr-logs"
+    [1m[0mbucket_domain_name[0m[0m          = "emr-stage-dataorc-emr-logs.s3.amazonaws.com"
+    [1m[0mbucket_regional_domain_name[0m[0m = "emr-stage-dataorc-emr-logs.s3.amazonaws.com"
+    [1m[0mforce_destroy[0m[0m               = true
+    [1m[0mhosted_zone_id[0m[0m              = "Z3AQBSTGFYJSTF"
+    [1m[0mid[0m[0m                          = "emr-stage-dataorc-emr-logs"
+    [1m[0mregion[0m[0m                      = "us-east-1"
+    [1m[0mrequest_payer[0m[0m               = "BucketOwner"
+    [1m[0mtags[0m[0m                        = {
+        "Attributes" = "logs"
+        "Name"       = "emr-stage-dataorc-emr-logs"
+        "Namespace"  = "emr"
+        "Stage"      = "stage"
+    }
+
+    lifecycle_rule {
+        [1m[0mabort_incomplete_multipart_upload_days[0m[0m = 0
+        [1m[0menabled[0m[0m                                = true
+        [1m[0mid[0m[0m                                     = "emr-stage-dataorc-emr-logs"
+
+        expiration {
+            [1m[0mdays[0m[0m = 90
+        }
+
+        noncurrent_version_expiration {
+            [1m[0mdays[0m[0m = 90
+        }
+
+        noncurrent_version_transition {
+            [1m[0mdays[0m[0m          = 30
+            [1m[0mstorage_class[0m[0m = "GLACIER"
+        }
+
+        transition {
+            [1m[0mdays[0m[0m          = 30
+            [1m[0mstorage_class[0m[0m = "STANDARD_IA"
+        }
+        transition {
+            [1m[0mdays[0m[0m          = 60
+            [1m[0mstorage_class[0m[0m = "GLACIER"
+        }
+    }
+
+    server_side_encryption_configuration {
+        rule {
+            apply_server_side_encryption_by_default {
+                [1m[0msse_algorithm[0m[0m = "AES256"
+            }
+        }
+    }
+
+    versioning {
+        [1m[0menabled[0m[0m    = false
+        [1m[0mmfa_delete[0m[0m = false
+    }
+}
+
+
+# module.emr_cluster.module.label_slave.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "slave"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "slave"
+    }
+    [1m[0mrandom[0m[0m               = "801050840956963489"
+}
+
+# module.emr_cluster.module.label_slave.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-slave"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-slave"
+    }
+    [1m[0mrandom[0m[0m               = "4839598317250404955"
+}
+
+# module.emr_cluster.module.label_slave.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "6443587209760952537"
+}
+
+# module.emr_cluster.module.label_slave.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "2321082346450958782"
+}
+
+
+# module.s3_log_storage.module.default_label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "logs"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "logs"
+    }
+    [1m[0mrandom[0m[0m               = "7064014104023849180"
+}
+
+# module.s3_log_storage.module.default_label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-logs"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-logs"
+    }
+    [1m[0mrandom[0m[0m               = "3049140055702026646"
+}
+
+# module.s3_log_storage.module.default_label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "4410558285575670725"
+}
+
+# module.s3_log_storage.module.default_label.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "5889298443616149843"
+}
+
+
+# module.emr_cluster.module.label_core.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "core"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "core"
+    }
+    [1m[0mrandom[0m[0m               = "8246918606662053101"
+}
+
+# module.emr_cluster.module.label_core.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-core"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-core"
+    }
+    [1m[0mrandom[0m[0m               = "8287078797639175836"
+}
+
+# module.emr_cluster.module.label_core.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "5325208526289962279"
+}
+
+# module.emr_cluster.module.label_core.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "8564113109123222326"
+}
+
+
+# data.template_file.cluster_1_auto_scaling_configuration:
+data "template_file" "cluster_1_auto_scaling_configuration" {
+    [1m[0mid[0m[0m       = "5b7b9184ea39b4ef180eca21497da25bf1822d5b4faba6be26311b0c20bc363e"
+    [1m[0mrendered[0m[0m = jsonencode(
+        {
+            Constraints = {
+                MaxCapacity = 3
+                MinCapacity = 1
+            }
+            Rules       = [
+                {
+                    Action      = {
+                        SimpleScalingPolicyConfiguration = {
+                            AdjustmentType    = "CHANGE_IN_CAPACITY"
+                            CoolDown          = 100
+                            ScalingAdjustment = 1
+                        }
+                    }
+                    Description = "Scale out if YARNMemoryAvailablePercentage is less than 15"
+                    Name        = "ScaleOutMemoryPercentage"
+                    Trigger     = {
+                        CloudWatchAlarmDefinition = {
+                            ComparisonOperator = "LESS_THAN"
+                            EvaluationPeriods  = 1
+                            MetricName         = "YARNMemoryAvailablePercentage"
+                            Namespace          = "AWS/ElasticMapReduce"
+                            Period             = 300
+                            Statistic          = "AVERAGE"
+                            Threshold          = 15
+                            Unit               = "PERCENT"
+                        }
+                    }
+                },
+            ]
+        }
+    )
+    [1m[0mtemplate[0m[0m = jsonencode(
+        {
+            Constraints = {
+                MaxCapacity = 3
+                MinCapacity = 1
+            }
+            Rules       = [
+                {
+                    Action      = {
+                        SimpleScalingPolicyConfiguration = {
+                            AdjustmentType    = "CHANGE_IN_CAPACITY"
+                            CoolDown          = 100
+                            ScalingAdjustment = 1
+                        }
+                    }
+                    Description = "Scale out if YARNMemoryAvailablePercentage is less than 15"
+                    Name        = "ScaleOutMemoryPercentage"
+                    Trigger     = {
+                        CloudWatchAlarmDefinition = {
+                            ComparisonOperator = "LESS_THAN"
+                            EvaluationPeriods  = 1
+                            MetricName         = "YARNMemoryAvailablePercentage"
+                            Namespace          = "AWS/ElasticMapReduce"
+                            Period             = 300
+                            Statistic          = "AVERAGE"
+                            Threshold          = 15
+                            Unit               = "PERCENT"
+                        }
+                    }
+                },
+            ]
+        }
+    )
+}
+
+# data.template_file.cluster_1_configuration:
+data "template_file" "cluster_1_configuration" {
+    [1m[0mid[0m[0m       = "a6c600e2d3339657c36feab1a1a63bccf6946820e257e59f60d9e48adb4f1d0c"
+    [1m[0mrendered[0m[0m = jsonencode(
+        [
+            {
+                Classification = "spark-hive-site"
+                Properties     = {
+                    hive.metastore.client.factory.class = "com.amazonaws.glue.catalog.metastore.AWSGlueDataCatalogHiveClientFactory"
+                }
+            },
+            {
+                Classification = "hive-site"
+                Properties     = {
+                    hive.metastore.client.factory.class = "com.amazonaws.glue.catalog.metastore.AWSGlueDataCatalogHiveClientFactory"
+                }
+            },
+        ]
+    )
+    [1m[0mtemplate[0m[0m = jsonencode(
+        [
+            {
+                Classification = "spark-hive-site"
+                Properties     = {
+                    hive.metastore.client.factory.class = "com.amazonaws.glue.catalog.metastore.AWSGlueDataCatalogHiveClientFactory"
+                }
+            },
+            {
+                Classification = "hive-site"
+                Properties     = {
+                    hive.metastore.client.factory.class = "com.amazonaws.glue.catalog.metastore.AWSGlueDataCatalogHiveClientFactory"
+                }
+            },
+        ]
+    )
+}
+
+
+# module.emr_cluster.module.label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0mrandom[0m[0m               = "4637637675584314740"
+}
+
+# module.emr_cluster.module.label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "2985313454909061262"
+}
+
+# module.emr_cluster.module.label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "8169402646361738622"
+}
+
+
+# module.emr_cluster.module.label_ec2.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "4654726000818083355"
+}
+
+# module.emr_cluster.module.label_ec2.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "ec2"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "ec2"
+    }
+    [1m[0mrandom[0m[0m               = "1408941613780762720"
+}
+
+# module.emr_cluster.module.label_ec2.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-ec2"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-ec2"
+    }
+    [1m[0mrandom[0m[0m               = "9109553532123502036"
+}
+
+# module.emr_cluster.module.label_ec2.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "979061507735728776"
+}
+
+
+# module.bridge_instance.module.label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "eg-dev-ec2bridge"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "eg-dev-ec2bridge"
+    }
+    [1m[0mrandom[0m[0m               = "2112278261156238937"
+}
+
+# module.bridge_instance.module.label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "eg"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "eg"
+    }
+    [1m[0mrandom[0m[0m               = "7444413529415307412"
+}
+
+# module.bridge_instance.module.label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "dev"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "dev"
+    }
+    [1m[0mrandom[0m[0m               = "8713767293078655236"
+}
+
+
+# module.subnets.module.nat_instance_label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Attributes"
+        "value" = "nat-instance"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Attributes"
+        "value" = "nat-instance"
+    }
+    [1m[0mrandom[0m[0m               = "3041182347824160782"
+}
+
+# module.subnets.module.nat_instance_label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-nat-instance"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr-nat-instance"
+    }
+    [1m[0mrandom[0m[0m               = "1909730422208022772"
+}
+
+# module.subnets.module.nat_instance_label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "3136301067082451312"
+}
+
+# module.subnets.module.nat_instance_label.data.null_data_source.tags_as_list_of_maps[3]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "4801307458948428360"
+}
+
+
+# module.bridge_instance.aws_cloudwatch_metric_alarm.default[0]:
+resource "aws_cloudwatch_metric_alarm" "default" {
+    [1m[0mactions_enabled[0m[0m     = true
+    [1m[0malarm_actions[0m[0m       = [
+        "arn:aws:swf:us-east-1:216727195602:action/actions/AWS_EC2.InstanceId.Reboot/1.0",
+    ]
+    [1m[0malarm_name[0m[0m          = "eg-dev-ec2bridge"
+    [1m[0marn[0m[0m                 = "arn:aws:cloudwatch:us-east-1:216727195602:alarm:eg-dev-ec2bridge"
+    [1m[0mcomparison_operator[0m[0m = "GreaterThanOrEqualToThreshold"
+    [1m[0mdatapoints_to_alarm[0m[0m = 0
+    [1m[0mdimensions[0m[0m          = {
+        "InstanceId" = "i-0c4845cdd3b547a14"
+    }
+    [1m[0mevaluation_periods[0m[0m  = 5
+    [1m[0mid[0m[0m                  = "eg-dev-ec2bridge"
+    [1m[0mmetric_name[0m[0m         = "StatusCheckFailed_Instance"
+    [1m[0mnamespace[0m[0m           = "AWS/EC2"
+    [1m[0mperiod[0m[0m              = 60
+    [1m[0mstatistic[0m[0m           = "Maximum"
+    [1m[0mthreshold[0m[0m           = 1
+    [1m[0mtreat_missing_data[0m[0m  = "missing"
+}
+
+# module.bridge_instance.aws_ebs_volume.default[0]:
+resource "aws_ebs_volume" "default" {
+    [1m[0marn[0m[0m               = "arn:aws:ec2:us-east-1:216727195602:volume/vol-0a2ec80e6f1b48dde"
+    [1m[0mavailability_zone[0m[0m = "us-east-1e"
+    [1m[0mencrypted[0m[0m         = false
+    [1m[0mid[0m[0m                = "vol-0a2ec80e6f1b48dde"
+    [1m[0miops[0m[0m              = 100
+    [1m[0msize[0m[0m              = 10
+    [1m[0mtags[0m[0m              = {
+        "Name"      = "eg-dev-ec2bridge"
+        "Namespace" = "eg"
+        "Stage"     = "dev"
+    }
+    [1m[0mtype[0m[0m              = "gp2"
+}
+
+# module.bridge_instance.aws_eip.additional[0]:
+resource "aws_eip" "additional" {
+    [1m[0massociation_id[0m[0m    = "eipassoc-0cf624af3aefd72c8"
+    [1m[0mdomain[0m[0m            = "vpc"
+    [1m[0mid[0m[0m                = "eipalloc-084748b01a0445be1"
+    [1m[0mnetwork_interface[0m[0m = "eni-0b5017707bd6ab540"
+    [1m[0mprivate_dns[0m[0m       = "ip-10-0-111-206.ec2.internal"
+    [1m[0mprivate_ip[0m[0m        = "10.0.111.206"
+    [1m[0mpublic_dns[0m[0m        = "ec2-3-225-157-192.compute-1.amazonaws.com"
+    [1m[0mpublic_ip[0m[0m         = "3.225.157.192"
+    [1m[0mpublic_ipv4_pool[0m[0m  = "amazon"
+    [1m[0mvpc[0m[0m               = true
+}
+
+# module.bridge_instance.aws_eip.default[0]:
+resource "aws_eip" "default" {
+    [1m[0massociation_id[0m[0m    = "eipassoc-0e366466be5b592aa"
+    [1m[0mdomain[0m[0m            = "vpc"
+    [1m[0mid[0m[0m                = "eipalloc-0dc04e73a8f69c400"
+    [1m[0minstance[0m[0m          = "i-0c4845cdd3b547a14"
+    [1m[0mnetwork_interface[0m[0m = "eni-047200806319af246"
+    [1m[0mprivate_dns[0m[0m       = "ip-10-0-110-158.ec2.internal"
+    [1m[0mprivate_ip[0m[0m        = "10.0.110.158"
+    [1m[0mpublic_dns[0m[0m        = "ec2-3-233-225-103.compute-1.amazonaws.com"
+    [1m[0mpublic_ip[0m[0m         = "3.233.225.103"
+    [1m[0mpublic_ipv4_pool[0m[0m  = "amazon"
+    [1m[0mtags[0m[0m              = {
+        "Name"      = "eg-dev-ec2bridge"
+        "Namespace" = "eg"
+        "Stage"     = "dev"
+    }
+    [1m[0mvpc[0m[0m               = true
+}
+
+# module.bridge_instance.aws_iam_instance_profile.default[0]:
+resource "aws_iam_instance_profile" "default" {
+    [1m[0marn[0m[0m         = "arn:aws:iam::216727195602:instance-profile/eg-dev-ec2bridge"
+    [1m[0mcreate_date[0m[0m = "2019-11-03T07:02:20Z"
+    [1m[0mid[0m[0m          = "eg-dev-ec2bridge"
+    [1m[0mname[0m[0m        = "eg-dev-ec2bridge"
+    [1m[0mpath[0m[0m        = "/"
+    [1m[0mrole[0m[0m        = "eg-dev-ec2bridge"
+    [1m[0mroles[0m[0m       = []
+    [1m[0munique_id[0m[0m   = "AIPATE5PSR7JJBILQD2JT"
+}
+
+# module.bridge_instance.aws_iam_role.default[0]:
+resource "aws_iam_role" "default" {
+    [1m[0marn[0m[0m                   = "arn:aws:iam::216727195602:role/eg-dev-ec2bridge"
+    [1m[0massume_role_policy[0m[0m    = jsonencode(
+        {
+            Statement = [
+                {
+                    Action    = "sts:AssumeRole"
+                    Effect    = "Allow"
+                    Principal = {
+                        Service = "ec2.amazonaws.com"
+                    }
+                    Sid       = ""
+                },
+            ]
+            Version   = "2012-10-17"
+        }
+    )
+    [1m[0mcreate_date[0m[0m           = "2019-11-03T07:02:17Z"
+    [1m[0mforce_detach_policies[0m[0m = false
+    [1m[0mid[0m[0m                    = "eg-dev-ec2bridge"
+    [1m[0mmax_session_duration[0m[0m  = 3600
+    [1m[0mname[0m[0m                  = "eg-dev-ec2bridge"
+    [1m[0mpath[0m[0m                  = "/"
+    [1m[0munique_id[0m[0m             = "AROATE5PSR7JEIT7267CV"
+}
+
+# module.bridge_instance.aws_instance.default[0]:
+resource "aws_instance" "default" {
+    [1m[0mami[0m[0m                          = "ami-0d5ae5525eb033d0a"
+    [1m[0marn[0m[0m                          = "arn:aws:ec2:us-east-1:216727195602:instance/i-0c4845cdd3b547a14"
+    [1m[0massociate_public_ip_address[0m[0m  = true
+    [1m[0mavailability_zone[0m[0m            = "us-east-1e"
+    [1m[0mcpu_core_count[0m[0m               = 1
+    [1m[0mcpu_threads_per_core[0m[0m         = 1
+    [1m[0mdisable_api_termination[0m[0m      = false
+    [1m[0mebs_optimized[0m[0m                = false
+    [1m[0mget_password_data[0m[0m            = false
+    [1m[0miam_instance_profile[0m[0m         = "eg-dev-ec2bridge"
+    [1m[0mid[0m[0m                           = "i-0c4845cdd3b547a14"
+    [1m[0minstance_state[0m[0m               = "running"
+    [1m[0minstance_type[0m[0m                = "t2.micro"
+    [1m[0mipv6_address_count[0m[0m           = 0
+    [1m[0mipv6_addresses[0m[0m               = []
+    [1m[0mkey_name[0m[0m                     = "emr-stage-dataorc-emr-ssh-key"
+    [1m[0mmonitoring[0m[0m                   = true
+    [1m[0mprimary_network_interface_id[0m[0m = "eni-047200806319af246"
+    [1m[0mprivate_dns[0m[0m                  = "ip-10-0-110-158.ec2.internal"
+    [1m[0mprivate_ip[0m[0m                   = "10.0.110.158"
+    [1m[0mpublic_dns[0m[0m                   = "ec2-3-85-16-82.compute-1.amazonaws.com"
+    [1m[0mpublic_ip[0m[0m                    = "3.85.16.82"
+    [1m[0msecurity_groups[0m[0m              = []
+    [1m[0msource_dest_check[0m[0m            = true
+    [1m[0msubnet_id[0m[0m                    = "subnet-0eec4991889f27849"
+    [1m[0mtags[0m[0m                         = {
+        "Name"      = "eg-dev-ec2bridge"
+        "Namespace" = "eg"
+        "Stage"     = "dev"
+    }
+    [1m[0mtenancy[0m[0m                      = "default"
+    [1m[0mvolume_tags[0m[0m                  = {}
+    [1m[0mvpc_security_group_ids[0m[0m       = [
+        "sg-01e059b24f96185c6",
+        "sg-03e5cad11369ab01f",
+    ]
+
+    credit_specification {
+        [1m[0mcpu_credits[0m[0m = "standard"
+    }
+
+    root_block_device {
+        [1m[0mdelete_on_termination[0m[0m = true
+        [1m[0mencrypted[0m[0m             = false
+        [1m[0miops[0m[0m                  = 100
+        [1m[0mvolume_id[0m[0m             = "vol-0e96626e4c3a2af31"
+        [1m[0mvolume_size[0m[0m           = 10
+        [1m[0mvolume_type[0m[0m           = "gp2"
+    }
+}
+
+# module.bridge_instance.aws_network_interface.additional[0]:
+resource "aws_network_interface" "additional" {
+    [1m[0mid[0m[0m                = "eni-0b5017707bd6ab540"
+    [1m[0mprivate_dns_name[0m[0m  = "ip-10-0-111-206.ec2.internal"
+    [1m[0mprivate_ip[0m[0m        = "10.0.111.206"
+    [1m[0mprivate_ips[0m[0m       = [
+        "10.0.111.206",
+    ]
+    [1m[0mprivate_ips_count[0m[0m = 0
+    [1m[0msecurity_groups[0m[0m   = [
+        "sg-01e059b24f96185c6",
+        "sg-03e5cad11369ab01f",
+    ]
+    [1m[0msource_dest_check[0m[0m = true
+    [1m[0msubnet_id[0m[0m         = "subnet-0eec4991889f27849"
+    [1m[0mtags[0m[0m              = {
+        "Name"      = "eg-dev-ec2bridge"
+        "Namespace" = "eg"
+        "Stage"     = "dev"
+    }
+}
+
+# module.bridge_instance.aws_network_interface_attachment.additional[0]:
+resource "aws_network_interface_attachment" "additional" {
+    [1m[0mattachment_id[0m[0m        = "eni-attach-0019430141522f4f5"
+    [1m[0mdevice_index[0m[0m         = 1
+    [1m[0mid[0m[0m                   = "eni-attach-0019430141522f4f5"
+    [1m[0minstance_id[0m[0m          = "i-0c4845cdd3b547a14"
+    [1m[0mnetwork_interface_id[0m[0m = "eni-0b5017707bd6ab540"
+    [1m[0mstatus[0m[0m               = "attaching"
+}
+
+# module.bridge_instance.aws_security_group.default[0]:
+resource "aws_security_group" "default" {
+    [1m[0marn[0m[0m                    = "arn:aws:ec2:us-east-1:216727195602:security-group/sg-01e059b24f96185c6"
+    [1m[0mdescription[0m[0m            = "Instance default security group (only egress access is allowed)"
+    [1m[0megress[0m[0m                 = []
+    [1m[0mid[0m[0m                     = "sg-01e059b24f96185c6"
+    [1m[0mingress[0m[0m                = []
+    [1m[0mname[0m[0m                   = "eg-dev-ec2bridge"
+    [1m[0mowner_id[0m[0m               = "216727195602"
+    [1m[0mrevoke_rules_on_delete[0m[0m = false
+    [1m[0mtags[0m[0m                   = {
+        "Name"      = "eg-dev-ec2bridge"
+        "Namespace" = "eg"
+        "Stage"     = "dev"
+    }
+    [1m[0mvpc_id[0m[0m                 = "vpc-08f03cf7c659890bf"
+}
+
+# module.bridge_instance.aws_security_group_rule.egress[0]:
+resource "aws_security_group_rule" "egress" {
+    [1m[0mcidr_blocks[0m[0m       = [
+        "0.0.0.0/0",
+    ]
+    [1m[0mfrom_port[0m[0m         = 0
+    [1m[0mid[0m[0m                = "sgrule-824864843"
+    [1m[0mprotocol[0m[0m          = "-1"
+    [1m[0msecurity_group_id[0m[0m = "sg-01e059b24f96185c6"
+    [1m[0mself[0m[0m              = false
+    [1m[0mto_port[0m[0m           = 65535
+    [1m[0mtype[0m[0m              = "egress"
+}
+
+# module.bridge_instance.aws_security_group_rule.ingress[0]:
+resource "aws_security_group_rule" "ingress" {
+    [1m[0mcidr_blocks[0m[0m       = [
+        "0.0.0.0/0",
+    ]
+    [1m[0mfrom_port[0m[0m         = 22
+    [1m[0mid[0m[0m                = "sgrule-4020281464"
+    [1m[0mprotocol[0m[0m          = "tcp"
+    [1m[0msecurity_group_id[0m[0m = "sg-01e059b24f96185c6"
+    [1m[0mself[0m[0m              = false
+    [1m[0mto_port[0m[0m           = 22
+    [1m[0mtype[0m[0m              = "ingress"
+}
+
+# module.bridge_instance.aws_security_group_rule.ingress[1]:
+resource "aws_security_group_rule" "ingress" {
+    [1m[0mcidr_blocks[0m[0m       = [
+        "0.0.0.0/0",
+    ]
+    [1m[0mfrom_port[0m[0m         = 80
+    [1m[0mid[0m[0m                = "sgrule-1495989709"
+    [1m[0mprotocol[0m[0m          = "tcp"
+    [1m[0msecurity_group_id[0m[0m = "sg-01e059b24f96185c6"
+    [1m[0mself[0m[0m              = false
+    [1m[0mto_port[0m[0m           = 80
+    [1m[0mtype[0m[0m              = "ingress"
+}
+
+# module.bridge_instance.aws_security_group_rule.ingress[2]:
+resource "aws_security_group_rule" "ingress" {
+    [1m[0mcidr_blocks[0m[0m       = [
+        "0.0.0.0/0",
+    ]
+    [1m[0mfrom_port[0m[0m         = 443
+    [1m[0mid[0m[0m                = "sgrule-461053050"
+    [1m[0mprotocol[0m[0m          = "tcp"
+    [1m[0msecurity_group_id[0m[0m = "sg-01e059b24f96185c6"
+    [1m[0mself[0m[0m              = false
+    [1m[0mto_port[0m[0m           = 443
+    [1m[0mtype[0m[0m              = "ingress"
+}
+
+# module.bridge_instance.aws_volume_attachment.default[0]:
+resource "aws_volume_attachment" "default" {
+    [1m[0mdevice_name[0m[0m = "/dev/xvdb"
+    [1m[0mid[0m[0m          = "vai-1012861164"
+    [1m[0minstance_id[0m[0m = "i-0c4845cdd3b547a14"
+    [1m[0mvolume_id[0m[0m   = "vol-0a2ec80e6f1b48dde"
+}
+
+# module.bridge_instance.data.aws_ami.default:
+data "aws_ami" "default" {
+    [1m[0marchitecture[0m[0m          = "x86_64"
+    [1m[0mblock_device_mappings[0m[0m = [
+        {
+            device_name  = "/dev/sda1"
+            ebs          = {
+                "delete_on_termination" = "true"
+                "encrypted"             = "false"
+                "iops"                  = "0"
+                "snapshot_id"           = "snap-0b2ce82fbce9ea451"
+                "volume_size"           = "8"
+                "volume_type"           = "gp2"
+            }
+            no_device    = ""
+            virtual_name = ""
+        },
+        {
+            device_name  = "/dev/sdb"
+            ebs          = {}
+            no_device    = ""
+            virtual_name = "ephemeral0"
+        },
+        {
+            device_name  = "/dev/sdc"
+            ebs          = {}
+            no_device    = ""
+            virtual_name = "ephemeral1"
+        },
+    ]
+    [1m[0mcreation_date[0m[0m         = "2019-10-21T22:21:16.000Z"
+    [1m[0mdescription[0m[0m           = "Canonical, Ubuntu, 18.04 LTS, amd64 bionic image build on 2019-10-21"
+    [1m[0mhypervisor[0m[0m            = "xen"
+    [1m[0mid[0m[0m                    = "ami-0d5ae5525eb033d0a"
+    [1m[0mimage_id[0m[0m              = "ami-0d5ae5525eb033d0a"
+    [1m[0mimage_location[0m[0m        = "099720109477/ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20191021"
+    [1m[0mimage_type[0m[0m            = "machine"
+    [1m[0mmost_recent[0m[0m           = true
+    [1m[0mname[0m[0m                  = "ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20191021"
+    [1m[0mowner_id[0m[0m              = "099720109477"
+    [1m[0mowners[0m[0m                = [
+        "099720109477",
+    ]
+    [1m[0mproduct_codes[0m[0m         = []
+    [1m[0mpublic[0m[0m                = true
+    [1m[0mroot_device_name[0m[0m      = "/dev/sda1"
+    [1m[0mroot_device_type[0m[0m      = "ebs"
+    [1m[0mroot_snapshot_id[0m[0m      = "snap-0b2ce82fbce9ea451"
+    [1m[0msriov_net_support[0m[0m     = "simple"
+    [1m[0mstate[0m[0m                 = "available"
+    [1m[0mstate_reason[0m[0m          = {
+        "code"    = "UNSET"
+        "message" = "UNSET"
+    }
+    [1m[0mtags[0m[0m                  = {}
+    [1m[0mvirtualization_type[0m[0m   = "hvm"
+
+    filter {
+        [1m[0mname[0m[0m   = "name"
+        [1m[0mvalues[0m[0m = [
+            "ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-*",
+        ]
+    }
+    filter {
+        [1m[0mname[0m[0m   = "virtualization-type"
+        [1m[0mvalues[0m[0m = [
+            "hvm",
+        ]
+    }
+}
+
+# module.bridge_instance.data.aws_ami.info:
+data "aws_ami" "info" {
+    [1m[0marchitecture[0m[0m          = "x86_64"
+    [1m[0mblock_device_mappings[0m[0m = [
+        {
+            device_name  = "/dev/sda1"
+            ebs          = {
+                "delete_on_termination" = "true"
+                "encrypted"             = "false"
+                "iops"                  = "0"
+                "snapshot_id"           = "snap-0b2ce82fbce9ea451"
+                "volume_size"           = "8"
+                "volume_type"           = "gp2"
+            }
+            no_device    = ""
+            virtual_name = ""
+        },
+        {
+            device_name  = "/dev/sdb"
+            ebs          = {}
+            no_device    = ""
+            virtual_name = "ephemeral0"
+        },
+        {
+            device_name  = "/dev/sdc"
+            ebs          = {}
+            no_device    = ""
+            virtual_name = "ephemeral1"
+        },
+    ]
+    [1m[0mcreation_date[0m[0m         = "2019-10-21T22:21:16.000Z"
+    [1m[0mdescription[0m[0m           = "Canonical, Ubuntu, 18.04 LTS, amd64 bionic image build on 2019-10-21"
+    [1m[0mhypervisor[0m[0m            = "xen"
+    [1m[0mid[0m[0m                    = "ami-0d5ae5525eb033d0a"
+    [1m[0mimage_id[0m[0m              = "ami-0d5ae5525eb033d0a"
+    [1m[0mimage_location[0m[0m        = "099720109477/ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20191021"
+    [1m[0mimage_type[0m[0m            = "machine"
+    [1m[0mmost_recent[0m[0m           = false
+    [1m[0mname[0m[0m                  = "ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20191021"
+    [1m[0mowner_id[0m[0m              = "099720109477"
+    [1m[0mowners[0m[0m                = [
+        "099720109477",
+    ]
+    [1m[0mproduct_codes[0m[0m         = []
+    [1m[0mpublic[0m[0m                = true
+    [1m[0mroot_device_name[0m[0m      = "/dev/sda1"
+    [1m[0mroot_device_type[0m[0m      = "ebs"
+    [1m[0mroot_snapshot_id[0m[0m      = "snap-0b2ce82fbce9ea451"
+    [1m[0msriov_net_support[0m[0m     = "simple"
+    [1m[0mstate[0m[0m                 = "available"
+    [1m[0mstate_reason[0m[0m          = {
+        "code"    = "UNSET"
+        "message" = "UNSET"
+    }
+    [1m[0mtags[0m[0m                  = {}
+    [1m[0mvirtualization_type[0m[0m   = "hvm"
+
+    filter {
+        [1m[0mname[0m[0m   = "image-id"
+        [1m[0mvalues[0m[0m = [
+            "ami-0d5ae5525eb033d0a",
+        ]
+    }
+}
+
+# module.bridge_instance.data.aws_caller_identity.default:
+data "aws_caller_identity" "default" {
+    [1m[0maccount_id[0m[0m = "216727195602"
+    [1m[0marn[0m[0m        = "arn:aws:iam::216727195602:user/navdeep"
+    [1m[0mid[0m[0m         = "2019-11-03 07:01:59.926279 +0000 UTC"
+    [1m[0muser_id[0m[0m    = "AIDATE5PSR7JPEX3FJBQE"
+}
+
+# module.bridge_instance.data.aws_iam_policy_document.default:
+data "aws_iam_policy_document" "default" {
+    [1m[0mid[0m[0m      = "1903849331"
+    [1m[0mjson[0m[0m    = jsonencode(
+        {
+            Statement = [
+                {
+                    Action    = "sts:AssumeRole"
+                    Effect    = "Allow"
+                    Principal = {
+                        Service = "ec2.amazonaws.com"
+                    }
+                    Sid       = ""
+                },
+            ]
+            Version   = "2012-10-17"
+        }
+    )
+    [1m[0mversion[0m[0m = "2012-10-17"
+
+    statement {
+        [1m[0mactions[0m[0m       = [
+            "sts:AssumeRole",
+        ]
+        [1m[0meffect[0m[0m        = "Allow"
+        [1m[0mnot_actions[0m[0m   = []
+        [1m[0mnot_resources[0m[0m = []
+        [1m[0mresources[0m[0m     = []
+
+        principals {
+            [1m[0midentifiers[0m[0m = [
+                "ec2.amazonaws.com",
+            ]
+            [1m[0mtype[0m[0m        = "Service"
+        }
+    }
+}
+
+# module.bridge_instance.data.aws_region.default:
+data "aws_region" "default" {
+    [1m[0mdescription[0m[0m = "US East (N. Virginia)"
+    [1m[0mendpoint[0m[0m    = "ec2.us-east-1.amazonaws.com"
+    [1m[0mid[0m[0m          = "us-east-1"
+    [1m[0mname[0m[0m        = "us-east-1"
+}
+
+# module.bridge_instance.data.aws_subnet.default:
+data "aws_subnet" "default" {
+    [1m[0marn[0m[0m                             = "arn:aws:ec2:us-east-1:216727195602:subnet/subnet-0eec4991889f27849"
+    [1m[0massign_ipv6_address_on_creation[0m[0m = false
+    [1m[0mavailability_zone[0m[0m               = "us-east-1e"
+    [1m[0mavailability_zone_id[0m[0m            = "use1-az3"
+    [1m[0mcidr_block[0m[0m                      = "10.0.96.0/20"
+    [1m[0mdefault_for_az[0m[0m                  = false
+    [1m[0mid[0m[0m                              = "subnet-0eec4991889f27849"
+    [1m[0mmap_public_ip_on_launch[0m[0m         = true
+    [1m[0mowner_id[0m[0m                        = "216727195602"
+    [1m[0mstate[0m[0m                           = "available"
+    [1m[0mtags[0m[0m                            = {
+        "Attributes"          = "public"
+        "Name"                = "emr-stage-dataorc-emr-public-us-east-1e"
+        "Namespace"           = "emr"
+        "Stage"               = "stage"
+        "cpco.io/subnet/type" = "public"
+    }
+    [1m[0mvpc_id[0m[0m                          = "vpc-08f03cf7c659890bf"
+}
+
+# module.bridge_instance.data.null_data_source.eip:
+data "null_data_source" "eip" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "public_dns" = "ec2-3-233-225-103.compute-1.amazonaws.com"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "public_dns" = "ec2-3-233-225-103.compute-1.amazonaws.com"
+    }
+    [1m[0mrandom[0m[0m               = "1598912303486406084"
+}
+
+# module.bridge_instance.null_resource.check_alarm_action[0]:
+resource "null_resource" "check_alarm_action" {
+    [1m[0mid[0m[0m       = "3645743005462318950"
+    [1m[0mtriggers[0m[0m = {
+        "action" = "arn:aws:swf:us-east-1:216727195602:action/actions/AWS_EC2.InstanceId.Reboot/1.0"
+    }
+}
+
+
+
+# module.subnets.module.label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0mrandom[0m[0m               = "7981526432066551526"
+}
+
+# module.subnets.module.label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "3265425617538859029"
+}
+
+# module.subnets.module.label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "3003072145190203412"
+}
+
+
+# module.subnets.aws_eip.default[0]:
+resource "aws_eip" "default" {
+    [1m[0mdomain[0m[0m           = "vpc"
+    [1m[0mid[0m[0m               = "eipalloc-00ac09b51ed0010e3"
+    [1m[0mpublic_dns[0m[0m       = "ec2-3-234-54-238.compute-1.amazonaws.com"
+    [1m[0mpublic_ip[0m[0m        = "3.234.54.238"
+    [1m[0mpublic_ipv4_pool[0m[0m = "amazon"
+    [1m[0mtags[0m[0m             = {
+        "Attributes"          = "private"
+        "Name"                = "emr-stage-dataorc-emr-private-us-east-1e"
+        "Namespace"           = "emr"
+        "Stage"               = "stage"
+        "cpco.io/subnet/type" = "private"
+    }
+    [1m[0mvpc[0m[0m              = true
+}
+
+# module.subnets.aws_nat_gateway.default[0]:
+resource "aws_nat_gateway" "default" {
+    [1m[0mallocation_id[0m[0m        = "eipalloc-00ac09b51ed0010e3"
+    [1m[0mid[0m[0m                   = "nat-09ce39d624840171b"
+    [1m[0mnetwork_interface_id[0m[0m = "eni-0c39fd7d6ebf67517"
+    [1m[0mprivate_ip[0m[0m           = "10.0.108.91"
+    [1m[0mpublic_ip[0m[0m            = "3.234.54.238"
+    [1m[0msubnet_id[0m[0m            = "subnet-0eec4991889f27849"
+    [1m[0mtags[0m[0m                 = {
+        "Attributes" = "nat"
+        "Name"       = "emr-stage-dataorc-emr-nat-us-east-1e"
+        "Namespace"  = "emr"
+        "Stage"      = "stage"
+    }
+}
+
+# module.subnets.aws_network_acl.private[0]:
+resource "aws_network_acl" "private" {
+    [1m[0megress[0m[0m     = [
+        {
+            action          = "allow"
+            cidr_block      = "0.0.0.0/0"
+            from_port       = 0
+            icmp_code       = [90mnull[0m[0m
+            icmp_type       = [90mnull[0m[0m
+            ipv6_cidr_block = ""
+            protocol        = "-1"
+            rule_no         = 100
+            to_port         = 0
+        },
+    ]
+    [1m[0mid[0m[0m         = "acl-08de892a9b9f3dd6f"
+    [1m[0mingress[0m[0m    = [
+        {
+            action          = "allow"
+            cidr_block      = "0.0.0.0/0"
+            from_port       = 0
+            icmp_code       = [90mnull[0m[0m
+            icmp_type       = [90mnull[0m[0m
+            ipv6_cidr_block = ""
+            protocol        = "-1"
+            rule_no         = 100
+            to_port         = 0
+        },
+    ]
+    [1m[0mowner_id[0m[0m   = "216727195602"
+    [1m[0msubnet_ids[0m[0m = [
+        "subnet-04f1dfdc9bfdb83bb",
+    ]
+    [1m[0mtags[0m[0m       = {
+        "Attributes"          = "private"
+        "Name"                = "emr-stage-dataorc-emr"
+        "Namespace"           = "emr"
+        "Stage"               = "stage"
+        "cpco.io/subnet/type" = "private"
+    }
+    [1m[0mvpc_id[0m[0m     = "vpc-08f03cf7c659890bf"
+}
+
+# module.subnets.aws_network_acl.public[0]:
+resource "aws_network_acl" "public" {
+    [1m[0megress[0m[0m     = [
+        {
+            action          = "allow"
+            cidr_block      = "0.0.0.0/0"
+            from_port       = 0
+            icmp_code       = [90mnull[0m[0m
+            icmp_type       = [90mnull[0m[0m
+            ipv6_cidr_block = ""
+            protocol        = "-1"
+            rule_no         = 100
+            to_port         = 0
+        },
+    ]
+    [1m[0mid[0m[0m         = "acl-04fe9dc71be5a454e"
+    [1m[0mingress[0m[0m    = [
+        {
+            action          = "allow"
+            cidr_block      = "0.0.0.0/0"
+            from_port       = 0
+            icmp_code       = [90mnull[0m[0m
+            icmp_type       = [90mnull[0m[0m
+            ipv6_cidr_block = ""
+            protocol        = "-1"
+            rule_no         = 100
+            to_port         = 0
+        },
+    ]
+    [1m[0mowner_id[0m[0m   = "216727195602"
+    [1m[0msubnet_ids[0m[0m = [
+        "subnet-0eec4991889f27849",
+    ]
+    [1m[0mtags[0m[0m       = {
+        "Attributes"          = "public"
+        "Name"                = "emr-stage-dataorc-emr"
+        "Namespace"           = "emr"
+        "Stage"               = "stage"
+        "cpco.io/subnet/type" = "public"
+    }
+    [1m[0mvpc_id[0m[0m     = "vpc-08f03cf7c659890bf"
+}
+
+# module.subnets.aws_route.default[0]:
+resource "aws_route" "default" {
+    [1m[0mdestination_cidr_block[0m[0m = "0.0.0.0/0"
+    [1m[0mid[0m[0m                     = "r-rtb-0425f4270a16153921080289494"
+    [1m[0mnat_gateway_id[0m[0m         = "nat-09ce39d624840171b"
+    [1m[0morigin[0m[0m                 = "CreateRoute"
+    [1m[0mroute_table_id[0m[0m         = "rtb-0425f4270a1615392"
+    [1m[0mstate[0m[0m                  = "active"
+}
+
+# module.subnets.aws_route.public[0]:
+resource "aws_route" "public" {
+    [1m[0mdestination_cidr_block[0m[0m = "0.0.0.0/0"
+    [1m[0mgateway_id[0m[0m             = "igw-08dc73dcc07aa9e13"
+    [1m[0mid[0m[0m                     = "r-rtb-0e3ed9069aaca48ab1080289494"
+    [1m[0morigin[0m[0m                 = "CreateRoute"
+    [1m[0mroute_table_id[0m[0m         = "rtb-0e3ed9069aaca48ab"
+    [1m[0mstate[0m[0m                  = "active"
+}
+
+# module.subnets.aws_route_table.private[0]:
+resource "aws_route_table" "private" {
+    [1m[0mid[0m[0m               = "rtb-0425f4270a1615392"
+    [1m[0mowner_id[0m[0m         = "216727195602"
+    [1m[0mpropagating_vgws[0m[0m = []
+    [1m[0mroute[0m[0m            = []
+    [1m[0mtags[0m[0m             = {
+        "Attributes"          = "private"
+        "Name"                = "emr-stage-dataorc-emr-private-us-east-1e"
+        "Namespace"           = "emr"
+        "Stage"               = "stage"
+        "cpco.io/subnet/type" = "private"
+    }
+    [1m[0mvpc_id[0m[0m           = "vpc-08f03cf7c659890bf"
+}
+
+# module.subnets.aws_route_table.public[0]:
+resource "aws_route_table" "public" {
+    [1m[0mid[0m[0m               = "rtb-0e3ed9069aaca48ab"
+    [1m[0mowner_id[0m[0m         = "216727195602"
+    [1m[0mpropagating_vgws[0m[0m = []
+    [1m[0mroute[0m[0m            = []
+    [1m[0mtags[0m[0m             = {
+        "Attributes"          = "public"
+        "Name"                = "emr-stage-dataorc-emr"
+        "Namespace"           = "emr"
+        "Stage"               = "stage"
+        "cpco.io/subnet/type" = "public"
+    }
+    [1m[0mvpc_id[0m[0m           = "vpc-08f03cf7c659890bf"
+}
+
+# module.subnets.aws_route_table_association.private[0]:
+resource "aws_route_table_association" "private" {
+    [1m[0mid[0m[0m             = "rtbassoc-04fb51ac076f18b80"
+    [1m[0mroute_table_id[0m[0m = "rtb-0425f4270a1615392"
+    [1m[0msubnet_id[0m[0m      = "subnet-04f1dfdc9bfdb83bb"
+}
+
+# module.subnets.aws_route_table_association.public[0]:
+resource "aws_route_table_association" "public" {
+    [1m[0mid[0m[0m             = "rtbassoc-08bd98f733afc6fba"
+    [1m[0mroute_table_id[0m[0m = "rtb-0e3ed9069aaca48ab"
+    [1m[0msubnet_id[0m[0m      = "subnet-0eec4991889f27849"
+}
+
+# module.subnets.aws_subnet.private[0]:
+resource "aws_subnet" "private" {
+    [1m[0marn[0m[0m                             = "arn:aws:ec2:us-east-1:216727195602:subnet/subnet-04f1dfdc9bfdb83bb"
+    [1m[0massign_ipv6_address_on_creation[0m[0m = false
+    [1m[0mavailability_zone[0m[0m               = "us-east-1e"
+    [1m[0mavailability_zone_id[0m[0m            = "use1-az3"
+    [1m[0mcidr_block[0m[0m                      = "10.0.0.0/20"
+    [1m[0mid[0m[0m                              = "subnet-04f1dfdc9bfdb83bb"
+    [1m[0mmap_public_ip_on_launch[0m[0m         = false
+    [1m[0mowner_id[0m[0m                        = "216727195602"
+    [1m[0mtags[0m[0m                            = {
+        "Attributes"          = "private"
+        "Name"                = "emr-stage-dataorc-emr-private-us-east-1e"
+        "Namespace"           = "emr"
+        "Stage"               = "stage"
+        "cpco.io/subnet/type" = "private"
+    }
+    [1m[0mvpc_id[0m[0m                          = "vpc-08f03cf7c659890bf"
+}
+
+# module.subnets.aws_subnet.public[0]:
+resource "aws_subnet" "public" {
+    [1m[0marn[0m[0m                             = "arn:aws:ec2:us-east-1:216727195602:subnet/subnet-0eec4991889f27849"
+    [1m[0massign_ipv6_address_on_creation[0m[0m = false
+    [1m[0mavailability_zone[0m[0m               = "us-east-1e"
+    [1m[0mavailability_zone_id[0m[0m            = "use1-az3"
+    [1m[0mcidr_block[0m[0m                      = "10.0.96.0/20"
+    [1m[0mid[0m[0m                              = "subnet-0eec4991889f27849"
+    [1m[0mmap_public_ip_on_launch[0m[0m         = true
+    [1m[0mowner_id[0m[0m                        = "216727195602"
+    [1m[0mtags[0m[0m                            = {
+        "Attributes"          = "public"
+        "Name"                = "emr-stage-dataorc-emr-public-us-east-1e"
+        "Namespace"           = "emr"
+        "Stage"               = "stage"
+        "cpco.io/subnet/type" = "public"
+    }
+    [1m[0mvpc_id[0m[0m                          = "vpc-08f03cf7c659890bf"
+}
+
+# module.subnets.data.aws_availability_zones.available:
+data "aws_availability_zones" "available" {
+    [1m[0mid[0m[0m       = "2019-11-03 07:01:58.740561 +0000 UTC"
+    [1m[0mnames[0m[0m    = [
+        "us-east-1a",
+        "us-east-1b",
+        "us-east-1c",
+        "us-east-1d",
+        "us-east-1e",
+        "us-east-1f",
+    ]
+    [1m[0mzone_ids[0m[0m = [
+        "use1-az1",
+        "use1-az2",
+        "use1-az4",
+        "use1-az6",
+        "use1-az3",
+        "use1-az5",
+    ]
+}
+
+# module.subnets.data.aws_vpc.default:
+data "aws_vpc" "default" {
+    [1m[0marn[0m[0m                     = "arn:aws:ec2:us-east-1:216727195602:vpc/vpc-08f03cf7c659890bf"
+    [1m[0mcidr_block[0m[0m              = "10.0.0.0/16"
+    [1m[0mcidr_block_associations[0m[0m = [
+        {
+            association_id = "vpc-cidr-assoc-06d7febf9ce74f7a9"
+            cidr_block     = "10.0.0.0/16"
+            state          = "associated"
+        },
+    ]
+    [1m[0mdefault[0m[0m                 = false
+    [1m[0mdhcp_options_id[0m[0m         = "dopt-6195c71a"
+    [1m[0menable_dns_hostnames[0m[0m    = true
+    [1m[0menable_dns_support[0m[0m      = true
+    [1m[0mid[0m[0m                      = "vpc-08f03cf7c659890bf"
+    [1m[0minstance_tenancy[0m[0m        = "default"
+    [1m[0mipv6_association_id[0m[0m     = "vpc-cidr-assoc-03b2bee56408e93bd"
+    [1m[0mipv6_cidr_block[0m[0m         = "2600:1f18:6454:e900::/56"
+    [1m[0mmain_route_table_id[0m[0m     = "rtb-0f27d3565f179cc82"
+    [1m[0mowner_id[0m[0m                = "216727195602"
+    [1m[0mstate[0m[0m                   = "available"
+    [1m[0mtags[0m[0m                    = {
+        "Name"      = "emr-stage-dataorc-emr"
+        "Namespace" = "emr"
+        "Stage"     = "stage"
+    }
+}
+
+
+# module.vpc.module.label.data.null_data_source.tags_as_list_of_maps[0]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Name"
+        "value" = "emr-stage-dataorc-emr"
+    }
+    [1m[0mrandom[0m[0m               = "7244362557368700461"
+}
+
+# module.vpc.module.label.data.null_data_source.tags_as_list_of_maps[1]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Namespace"
+        "value" = "emr"
+    }
+    [1m[0mrandom[0m[0m               = "4131890754025774796"
+}
+
+# module.vpc.module.label.data.null_data_source.tags_as_list_of_maps[2]:
+data "null_data_source" "tags_as_list_of_maps" {
+    [1m[0mhas_computed_default[0m[0m = "default"
+    [1m[0mid[0m[0m                   = "static"
+    [1m[0minputs[0m[0m               = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0moutputs[0m[0m              = {
+        "key"   = "Stage"
+        "value" = "stage"
+    }
+    [1m[0mrandom[0m[0m               = "781909361531778640"
+}
+
+
+# module.aws_key_pair.aws_key_pair.imported[0]:
+resource "aws_key_pair" "imported" {
+    [1m[0mfingerprint[0m[0m = "87:a9:d3:d6:ee:75:56:61:53:c9:a5:c2:b8:57:74:04"
+    [1m[0mid[0m[0m          = "emr-stage-dataorc-emr-ssh-key"
+    [1m[0mkey_name[0m[0m    = "emr-stage-dataorc-emr-ssh-key"
+    [1m[0mpublic_key[0m[0m  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDWpcx/oGHhqZkvrXn52YYyFGwwMS/FfLw/z2ZIGJNWZBhqPsQwlXc8j626yKszXozDi69BlovMCoE46iVYZjfUAk0pAz32BT51eIt2+CB73xEu/uh0kyJm+5FtaK7X+mdsTaHxS6Fg9k6w32Gp/VblQcxKKWchDb8WgRSDEwkyYhdKv4Q29YT59GO8khuAeDH23fPq3UnCycUpLc0QiMTp6TjDuOgecXQT8Az8In91op6mFx3RkcpJDquhiTSb1lt6lmw+9M4RiyGjDwwMK+F/scy0LVF87LovdyZLUVcx++PPWp4Kr1cSKng3DzHc0eoD8587nbCRwm1RFq0OdOmH"
+}
+
+
+Outputs:
+
+aws_key_pair_key_name = "emr-stage-dataorc-emr-ssh-key"
+aws_key_pair_private_key_filename = "./secrets/emr-stage-dataorc-emr-ssh-key"
+aws_key_pair_public_key = ""
+aws_key_pair_public_key_filename = "./secrets/emr-stage-dataorc-emr-ssh-key.pub"
+cluster_id = "j-2VTPH10QTL0UL"
+cluster_master_host = ""
+cluster_master_public_dns = "ip-10-0-1-255.ec2.internal"
+cluster_master_security_group_id = "sg-0fbcdd896f9cad95a"
+cluster_name = "emr-stage-dataorc-emr"
+cluster_slave_security_group_id = "sg-0500348a9b239265d"
+emr_access_ip = "3.233.225.103"
+private_subnet_cidrs = [
+    "10.0.0.0/20",
+]
+public_subnet_cidrs = [
+    "10.0.96.0/20",
+]
+public_subnet_ids = [
+    "subnet-0eec4991889f27849",
+]
+s3_log_storage_bucket_arn = "arn:aws:s3:::emr-stage-dataorc-emr-logs"
+s3_log_storage_bucket_domain_name = "emr-stage-dataorc-emr-logs.s3.amazonaws.com"
+s3_log_storage_bucket_id = "emr-stage-dataorc-emr-logs"
+vpc_cidr = "10.0.0.0/16"
+vpc_id = "vpc-08f03cf7c659890bf"[0m[0m
