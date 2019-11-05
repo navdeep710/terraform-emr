@@ -143,7 +143,7 @@ variable "ssh_public_key_path" {
 variable "generate_ssh_key" {
   type        = bool
   description = "If set to `true`, new SSH key pair will be created"
-  default = "false"
+  default = "true"
 }
 
 variable "nat_instance_type" {
