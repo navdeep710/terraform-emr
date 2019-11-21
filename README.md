@@ -3,12 +3,12 @@
 
 ## Usage
 
-** Prerequisite **
+##Prerequisite
 
-terraform installed (brew(apt-get) install brew)
+terraform installed (brew(apt-get) install terraform)  
 enough permission on aws
 
-** Set up instructions **
+##Set up instructions
 
 1) go to the folder dataorc_emr
 2) ``terraform init``
