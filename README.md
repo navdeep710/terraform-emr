@@ -3,9 +3,27 @@
 
 ## Usage
 
+** Prerequisite **
 
-**IMPORTANT:** The `master` branch is used in `source` just as an example. In your code, do not pin to `master` because there may be breaking changes between releases.
-Instead pin to the release tag (e.g. `?ref=tags/x.y.z`) of one of our 
+terraform installed (brew(apt-get) install brew)
+enough permission on aws
+
+** Set up instructions **
+
+1) go to the folder dataorc_emr
+2) ``terraform init``
+3) ``terraform plan``
+
+
+This terraform module is self contained meaning if you dont provide your own VPC/subnets or other resources it will create one with best of the practises
+
+variables you might want to consider are mentioned in main.tf file
+
+* applications --> if want to include presto, add presto in applications (variables.tf) 
+* subnet id if you have private one replace it ``module.subnets.private_subnet_ids[0]`` in below module same goes with vpc
+* core_instance_group_instance_type 
+* master_instance_group_instance_type - keep this 3 if you want an ha set up 
+* release_label - latest on is 5.28(hudi included)
 
 
 
