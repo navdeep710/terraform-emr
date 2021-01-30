@@ -108,6 +108,21 @@ resource "aws_security_group" "managed_master" {
   }
 }
 
+
+resource "aws_security_group_rule" "managed_master_service_access_ingress" {
+  count                    = var.enabled && var.subnet_type == "private" ? 1 : 0
+  description              = "Allow ingress traffic from EmrManagedMasterSecurityGroup"
+  type                     = "ingress"
+  from_port                = 9443
+  to_port                  = 9443
+  protocol                 = "tcp"
+  source_security_group_id = join("", aws_security_group.managed_master.*.id)
+  security_group_id        = join("", aws_security_group.managed_service_access.*.id)
+}
+
+
+
+
 resource "aws_security_group_rule" "managed_master_egress" {
   count             = var.enabled ? 1 : 0
   description       = "Allow all egress traffic"
